@@ -3,4 +3,5 @@ An AI-driven conversational assistant that leverages large language models to pr
 
 ## How to run
 Step 1: Clone the repository <br>
-Step 2: Use the command **"streamlit run app.py"**
+Step 2: Update the model_id in config file <br>
+Step 3: Use the command **"streamlit run app.py"**
